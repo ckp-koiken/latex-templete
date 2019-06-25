@@ -1,0 +1,154 @@
+\documentclass[11pt, a4paper, uplatex]{jsarticle}
+
+
+%フォント関係
+\usepackage{amsmath, amsfonts, bm}
+\usepackage{exscale}
+\usepackage{otf}
+\usepackage{ascmac}
+\usepackage{helvet}
+% \usepackage{lmodern} %フォントをLatin Modernに
+% \usepackage{newtxmath,newtxtext}
+ \usepackage{mathpazo}
+
+%bibtex
+\usepackage[round]{natbib} %著者名(年代)
+\setcitestyle{aysep={}} %citep時に真ん中の点をなくす
+\bibliographystyle{jecon} %bstファイルの指定
+
+%用紙サイズ
+%word初期設定A4準拠の場合
+%\usepackage[papersize={210truemm,297truemm},
+%top=35truemm,bottom=30truemm,left=30truemm,right=30truemm,
+%footskip=12.5truemm,textwidth=40zw, textheight=36\baselineskip]{geometry}
+
+%図表
+\usepackage[dvipdfmx]{graphicx,xcolor}
+\usepackage{tikz}
+\usetikzlibrary{intersections}
+\usetikzlibrary{positioning}
+\usepackage{ltablex}
+\usepackage{colortbl}
+\usepackage{tabularx}
+
+
+%図表配置
+% ページの上下に出力される図と図の間のスペース
+%\setlength\floatsep{0pt}
+% ページの上下に出力される図と本文の間のスペース
+%\setlength\textfloatsep{0pt}
+% ページの途中に出力される図と本文の間のスペース
+% \setlength\intextsep{0pt}
+% 図とキャプションの間のスペース
+%\setlength\abovecaptionskip{0pt}
+
+%定理型環境
+\newtheorem{question}{問}
+\newtheorem{answer}{答}
+\newtheorem{hypo}{仮説}[section]
+\newtheorem{theorem}{定理}[section]
+\newtheorem{definition}{定義}
+\newtheorem{proposition}{命題}[section]
+\newtheorem{lemma}{補題}[section]
+\newtheorem{proof}{証明}[section]
+\newtheorem{RQ}{RQ}
+
+
+%argmax，argminの定義
+\newcommand{\argmax}{\mathop{\rm arg~max}\limits}
+\newcommand{\argmin}{\mathop{\rm arg~min}\limits}
+
+%各種パッケージ
+\usepackage{enumerate}
+\usepackage{url}
+\usepackage{fancyhdr}
+\usepackage[titletoc,title]{appendix}
+\usepackage{fancybox}
+\usepackage{framed}
+\usepackage{lscape}
+\usepackage[all]{xy}
+\usepackage{multicol}
+\usepackage{pdflscape}
+\usepackage{comment}
+\usepackage{float}
+\usepackage{array}
+\usepackage{multirow}
+
+%\usepackage{caption}
+%\captionsetup[table]{labelsep=space}
+
+\usepackage{wasysym}
+ \usepackage[dvipdfmx]{hyperref}
+ \usepackage{pxjahyper}
+%%\def\tightlist{\itemsep1pt\parskip0pt\parsep0pt}
+%\usepackage{booktabs}
+
+
+
+%fancyヘッダ設定
+\pagestyle{fancy}
+\lhead{}
+\rhead{\today}
+
+
+
+
+
+%タイトル情報
+\usepackage{authblk}
+\author[1]{著者名}
+\affil[1]{所属}
+\title{タイトル}
+\date{\today}
+
+
+\begin{document}
+	\maketitle
+
+% 1ページ目のfancyヘッダ設定
+   \thispagestyle{fancy}
+	 \lhead{}
+	 \rhead{\today}
+
+
+
+\section{セクションタイトル}
+
+
+
+
+
+
+%  \bibliography{bibファイルの指定}
+
+
+
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
