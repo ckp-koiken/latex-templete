@@ -1,10 +1,10 @@
-PWD /Users/kkoi/Desktop/seminar190530
+PWD /Users/kkoi/github/latex-templete
 INPUT /usr/local/texlive/2019/texmf.cnf
 INPUT /usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2019/texmf.cnf
 INPUT /usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2019/texmf-var/web2c/euptex/uplatex.fmt
-INPUT latex-templete.tex
+INPUT /Users/kkoi/github/latex-templete/latex-templete.tex
 OUTPUT latex-templete.log
 INPUT /usr/local/texlive/2019/texmf-dist/tex/platex/jsclasses/jsarticle.cls
 INPUT /usr/local/texlive/2019/texmf-dist/tex/platex/jsclasses/jsarticle.cls
@@ -355,6 +355,9 @@ INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/japanese-otf-uptex/upn
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ot1phv.fd
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ot1phv.fd
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/helvetic/phvr7t.tfm
+INPUT latex-templete.bbl
+INPUT latex-templete.bbl
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/palatino/pplri7t.tfm
 OUTPUT latex-templete.dvi
 INPUT latex-templete.aux
 INPUT ./latex-templete.out

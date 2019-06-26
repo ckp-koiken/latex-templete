@@ -1,0 +1,33 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%  This bbl file is created by jecon.bst ver.5.1
+%  The latest jecon.bst is available at
+%  <http://shirotakeda.org/ja/tex-ja/jecon-ja.html>
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Definition of \bysame
+\ifx\undefined\bysame
+\newcommand{\bysame}{\hskip.3em \leavevmode\rule[.5ex]{2.5em}{.3pt}\hskip0.5em}
+\fi
+
+%%% Definition of \bysamejp
+\ifx\undefined\bysamejp
+\newcommand{\bysamejp}{\hskip.2em
+  \leavevmode\rule[.7ex]{2.5em}{.3pt}\hskip0.3em}
+\fi
+
+
+\begin{thebibliography}{xxx}
+
+
+\harvarditem[Koszegi]{Koszegi}{2014}{koszegi2014}
+Koszegi, B. (2014) ``Behavioral contract theory,'' {\it Journal of Economic
+  Literature}, Vol. 52, No. 4, pp. 1075--1118.
+
+\harvarditem[荒井]{荒井}{2013}{arai2013}
+荒井耕 (2013) 『病院管理会計 :
+  持続的経営による地域医療への貢献』，中央経済社．
+
+\end{thebibliography}
+

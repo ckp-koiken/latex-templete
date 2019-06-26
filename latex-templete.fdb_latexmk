@@ -1,12 +1,21 @@
 # Fdb version 3
-["dvipdf"] 1561446757 "latex-templete.dvi" "latex-templete.pdf" "latex-templete" 1561446758
-  "latex-templete.dvi" 1561446757 1668 558537428520eebccc4fc91868bdbaa9 "latex"
+["bibtex latex-templete"] 1561524403 "latex-templete.aux" "latex-templete.bbl" "latex-templete" 1561524429
+  "./jecon.bst" 1540115760 135746 2f2e65011edb1a255612c8a47c283540 ""
+  "latex-templete.aux" 1561524404 931 5a1853899a1296fea4549e1bed384109 "latex"
+  "ref.bib" 1561524368 499 f3017b2b2f627b088fc8fb63c7742455 ""
+  (generated)
+  "latex-templete.bbl"
+  "latex-templete.blg"
+["dvipdf"] 1561524404 "latex-templete.dvi" "latex-templete.pdf" "latex-templete" 1561524429
+  "latex-templete.dvi" 1561524404 2788 957f9c365e23200b2a1afdef60bbb1f4 "latex"
   (generated)
   "latex-templete.pdf"
-["latex"] 1561446756 "latex-templete.tex" "latex-templete.dvi" "latex-templete" 1561446758
+["latex"] 1561524403 "/Users/kkoi/github/latex-templete/latex-templete.tex" "latex-templete.dvi" "latex-templete" 1561524429
+  "/Users/kkoi/github/latex-templete/latex-templete.tex" 1561524429 2737 b10cfcdd13517c5bd58b5b66dea89dc5 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/helvetic/phvr7t.tfm" 1136768653 2520 53e01eef820ca829e42c1333c3fd02b9 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm" 1136768653 1804 7b5f73028f6509167f47ace9d69509ed ""
+  "/usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/palatino/pplri7t.tfm" 1136768653 1732 3671a0e54806deb8b706eb5e53aba0a5 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm" 1246382020 1120 7f9f170e8aa57527ad6c49feafd45d54 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy9.tfm" 1246382020 1112 cbc11b646ccc26599775160605aaee3a ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib7.tfm" 1246382020 1508 6e807ff901c35a5f1fde0ca275533df8 ""
@@ -201,11 +210,12 @@
   "/usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf" 1559599508 35683 50a220a7a2a515000b0c7ffa04d5889f ""
   "/usr/local/texlive/2019/texmf-var/web2c/euptex/uplatex.fmt" 1560242621 4526136 e8b290480a5f48754411218ece565530 ""
   "/usr/local/texlive/2019/texmf.cnf" 1554926740 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "latex-templete.aux" 1561446757 769 0fce89d0a42d25dd26caa2967697af53 "latex"
-  "latex-templete.out" 1561446757 116 28960c55b798ef6d5593f081b3761607 "latex"
-  "latex-templete.tex" 1561446753 2721 af27ce46495e21314737d3edcf7ddd11 ""
+  "latex-templete.aux" 1561524404 931 5a1853899a1296fea4549e1bed384109 "latex"
+  "latex-templete.bbl" 1561524403 947 5f003e2d02e258765e64c4ac407d629b "bibtex latex-templete"
+  "latex-templete.out" 1561524404 116 28960c55b798ef6d5593f081b3761607 "latex"
+  "latex-templete.tex" 1561524429 2737 b10cfcdd13517c5bd58b5b66dea89dc5 ""
   (generated)
-  "latex-templete.log"
   "latex-templete.out"
   "latex-templete.aux"
   "latex-templete.dvi"
+  "latex-templete.log"

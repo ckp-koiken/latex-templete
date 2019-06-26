@@ -1,0 +1,61 @@
+This is upBibTeX, Version 0.99d-j0.33-u1.25 (utf8.uptex) (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: latex-templete.aux
+The style file: jecon.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 30 items from 20.
+Reallocated global_strs (elt_size=20001) to 30 items from 20.
+Reallocated glb_str_end (elt_size=4) to 30 items from 20.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Database file #1: ref.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 12000 items from 9000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 2 entries,
+            9634 wiz_defined-function locations,
+            1769 strings with 13056 characters,
+and the built_in function-call counts, 2810 in all, are:
+= -- 422
+> -- 46
+< -- 5
++ -- 16
+- -- 14
+* -- 113
+:= -- 367
+add.period$ -- 1
+call.type$ -- 2
+change.case$ -- 12
+chr.to.int$ -- 2
+cite$ -- 2
+duplicate$ -- 91
+empty$ -- 177
+format.name$ -- 24
+if$ -- 756
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 30
+num.names$ -- 18
+pop$ -- 54
+preamble$ -- 1
+purify$ -- 17
+quote$ -- 0
+skip$ -- 245
+stack$ -- 0
+substring$ -- 221
+swap$ -- 11
+text.length$ -- 7
+text.prefix$ -- 5
+top$ -- 0
+type$ -- 18
+warning$ -- 0
+while$ -- 17
+width$ -- 0
+write$ -- 50
+is.kanji.str$ -- 66
